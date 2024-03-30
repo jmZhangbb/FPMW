@@ -1,8 +1,12 @@
 
 Reducing High-Frequency Artifacts for Generative Model Watermarking via Wavelet Transform
+
 High-Frequency Artifacts-Resistant Image Watermarking Applicable to Image Processing Models
+
 Generative Model Watermarking Suppressing High-Frequency Artifacts
+
 Generative Model Watermarking Based on Human Visual System
+
 本项目提供了四篇论文框架最精简的代码，不包含各类测试代码。仅提供了框架代码以供参考。
 
 进入app文件夹，将自己想要运行的代码文件夹test(xxxx)修改为test,运行main即可。
